@@ -1,0 +1,6 @@
+{
+  "name": "VX-Core Mod Menu Overlay",
+  "description": "Interactive Android Mod Menu & Game Utility Overlay simulator featuring VIP key activation, draggable floating bubble, ESP & Aimbot FOV canvas HUD, 120 FPS telemetry, and Python memory-injection terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
